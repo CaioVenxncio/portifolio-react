@@ -1,39 +1,38 @@
-# Portfólio Pessoal
+# Personal Portfolio
 
-Este repositório contém meu portfólio pessoal, desenvolvido para demonstrar as tecnologias e habilidades que adquiri ao longo da minha jornada como estudante de Engenharia de Software. O portfólio foi projetado para apresentar uma visão clara e concisa das tecnologias que domino e os projetos que desenvolvi.
+This repository contains my personal portfolio, developed to showcase the technologies and skills I have acquired throughout my journey as a Software Engineering student. The portfolio was designed to provide a clear and concise view of the technologies I master and the projects I have developed.
 
-### Desenvolvido pro Caio Venancio (556030)
+### Developed by Caio Venancio (556030)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5**: Utilizado para a estruturação do conteúdo das páginas, garantindo acessibilidade e organização clara das informações.
-- **CSS3**: Aplicado para estilizar o portfólio, proporcionando um design responsivo e visualmente atraente, utilizando conceitos modernos de layout e design.
-- **JavaScript**: Linguagem de programação utilizada para adicionar interatividade ao portfólio, melhorando a experiência do usuário através de funcionalidades dinâmicas.
-- **React**: Biblioteca JavaScript escolhida para construir a interface do usuário, permitindo a criação de componentes reutilizáveis e facilitando a manutenção do código.
-- **Node.js**: Usado como ambiente de execução para o desenvolvimento de funcionalidades no lado do servidor, permitindo a implementação de APIs e gerenciando pacotes através do NPM.
+- **HTML5**: Used for structuring the content of the pages, ensuring accessibility and clear organization of information.
+- **CSS3**: Applied to style the portfolio, providing a responsive and visually appealing design using modern layout and design concepts.
+- **JavaScript**: Programming language used to add interactivity to the portfolio, enhancing the user experience through dynamic functionalities.
+- **React**: JavaScript library chosen to build the user interface, enabling the creation of reusable components and making the code easier to maintain.
+- **Node.js**: Used as the runtime environment for developing server-side functionalities, implementing APIs, and managing packages through NPM.
 
-## Imagens do projeto
+## Project Images
 
 ![image](https://github.com/user-attachments/assets/0871bfba-6933-4648-8fd7-57c008ce0cc5)
 
 ![image](https://github.com/user-attachments/assets/540af782-658f-476c-92b0-e28099be2d00)
 
+## Project Overview
 
+The portfolio is divided into sections that highlight the technologies I use, projects I have developed, and ways to get in touch. Each section was carefully designed to provide a smooth and intuitive browsing experience.
 
-## Visão Geral do Projeto
+### Features
 
-O portfólio é dividido em seções que destacam as tecnologias que utilizo, projetos que desenvolvi e formas de entrar em contato. Cada seção foi cuidadosamente projetada para proporcionar uma experiência de navegação fluida e intuitiva.
+- Display of main technologies with representative icons.
+- Concise descriptions for each technology, highlighting their applications and importance.
+- Direct links to relevant projects hosted on platforms like GitHub.
 
-### Funcionalidades
+## How to Run the Project
 
-- Exibição das principais tecnologias com ícones representativos.
-- Descrições concisas para cada tecnologia, destacando suas aplicações e importância.
-- Links diretos para projetos relevantes hospedados em plataformas como GitHub.
+To run the portfolio locally, follow the steps below:
 
-## Como Executar o Projeto
-
-Para executar o portfólio localmente, siga os passos abaixo:
-
-1. **Clone o repositório**:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/your-username/your-repository.git
+   ```
